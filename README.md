@@ -1,11 +1,11 @@
-# lombok-logging
- Simple empty project highlighting the lombok logging capabilities.
+# Desktop Rest Call
+ Simple empty project highlighting the java API REST call capabilities.
 
 ## 1) What is this repository for?
 
 * Quick summary.
 
-No utility but explanatory implementation of the logs in an application with the use of Lombok library
+No target use for now, but use as a sandbox to understand Java capabilities on the matter.
 
 
 * Version.
@@ -35,7 +35,7 @@ This library uses
 * Deployment instructions
   use [maven](https://spring.io/guides/gs/maven/) and exec plugin (already configured in the project) to compile and run the project.
 ```
-mvn clean package exec:java
+mvn package
 ```
 
 ## 4) Contribution guidelines ###
